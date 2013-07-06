@@ -1,4 +1,3 @@
-// Package newmath is a trivial example package.
 package newmath
 
 // Sqrt returns an approximation to the square root of x.
