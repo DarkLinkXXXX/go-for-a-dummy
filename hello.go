@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/doomgerbil/go-for-a-dummy/newmath"
+	"math"
 )
 
 func main() {
-	fmt.Printf("Hello, world.  Sqrt(2) = %v\n", newmath.Sqrt(2))
+	fmt.Printf("Hello, world.  Sqrt(2) = %v\n", math.Sqrt(2))
 }
